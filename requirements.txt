@@ -1,0 +1,8 @@
+streamlit
+openai  # for xAI API compatibility
+pandas
+python-dotenv
+PyPDF2  # or fpdf for PDF generation
+markdown
+# pypandoc or weasyprint for better reports
+# langchain if advanced AI orchestration
